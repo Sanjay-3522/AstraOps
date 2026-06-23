@@ -1,0 +1,40 @@
+{
+  "categorical_features": [
+    "event_cause",
+    "corridor",
+    "police_station",
+    "zone",
+    "priority",
+    "event_type",
+    "cause_X_corridor",
+    "rush_X_zone",
+    "priority_X_cause",
+    "rush_X_weekday",
+    "geo_sector"
+  ],
+  "numeric_features": [
+    "hour",
+    "weekday",
+    "is_weekend",
+    "is_rush_hour",
+    "month",
+    "hour_sin",
+    "hour_cos",
+    "weekday_sin",
+    "weekday_cos",
+    "corridor_freq",
+    "station_freq",
+    "zone_freq",
+    "cause_freq",
+    "geo_freq",
+    "cause_corridor_freq",
+    "rush_zone_freq",
+    "priority_cause_freq",
+    "cause_closure_rate",
+    "corridor_closure_rate",
+    "geo_closure_rate",
+    "cause_corridor_closure_rate",
+    "priority_cause_closure_rate",
+    "hotspot_score"
+  ]
+}
