@@ -5,7 +5,6 @@
 ![Traffic Analytics](https://img.shields.io/badge/Traffic-Analytics-green)
 ![Smart City](https://img.shields.io/badge/Smart-City-success)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Hackathon](https://img.shields.io/badge/Hackathon-Project-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > AI-Powered Traffic Incident Response & Road Closure Prediction System
